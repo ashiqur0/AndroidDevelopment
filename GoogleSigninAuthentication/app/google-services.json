@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1029906518030",
+    "project_id": "signinauthentication-d737e",
+    "storage_bucket": "signinauthentication-d737e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029906518030:android:6e42aed9dd721e219eec5f",
+        "android_client_info": {
+          "package_name": "com.example.firebasepractice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQFxLikQznd_hR4QS2DurrCIXF9a5yrRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029906518030:android:51cf4dbff16926799eec5f",
+        "android_client_info": {
+          "package_name": "com.zara.googlesigninauthentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQFxLikQznd_hR4QS2DurrCIXF9a5yrRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
